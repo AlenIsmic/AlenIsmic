@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlenIsmic
 - 👀 I’m interested in automotive industry
-- 🌱 I’m currently working as devops/devsec engineer
 - 📫 You can reach me on linkedIn https://www.linkedin.com/in/alenismic/
 
 <!---
